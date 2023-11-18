@@ -1,0 +1,17 @@
+{
+  "index": {
+    "title": "Home",
+    "type": "page",
+    "display": "hidden"
+  },
+  "documentation": {
+    "title": "Documentation",
+    "type": "page"
+  },
+  "about": {
+    "title": "About",
+    "type": "page",
+    "href": "https://www.linkedin.com/in/piotrusio",
+    "newWindow": true
+  }
+}
