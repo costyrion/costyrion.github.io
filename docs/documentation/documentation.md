@@ -7,3 +7,6 @@ permalink: /docs/documentation
 ---
 
 # Documentation
+
+{: .note }
+> The Costyrion project is under development. The documentation will become available accordingly as the code evolves.

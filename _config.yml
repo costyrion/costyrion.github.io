@@ -8,4 +8,21 @@ favicon_ico: /assets/images/favicon.ico
 logo: /assets/images/logo.png
 
 aux_links:
-  Github Repository: https://github.com/costyrion/costyrion
+  GitHub Repository: https://github.com/costyrion/costyrion
+
+callouts_level: quiet # or loud
+callouts:
+  highlight:
+    color: yellow
+  important:
+    title: Important
+    color: blue
+  new:
+    title: New
+    color: green
+  note:
+    title: Note
+    color: purple
+  warning:
+    title: Warning
+    color: red
