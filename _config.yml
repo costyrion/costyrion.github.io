@@ -10,7 +10,6 @@ logo: /assets/images/logo.png
 aux_links:
   GitHub Repository: https://github.com/costyrion/costyrion
 
-callouts_level: quiet # or loud
 callouts:
   highlight:
     color: yellow
